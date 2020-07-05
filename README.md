@@ -41,3 +41,7 @@ https://github.com/zoho/zcrm-php-sdk
 
 https://www.zoho.com/crm/developer/docs/php-sdk/record-samples.html?src=convert_record
 
+Installation :
+
+https://www.zoho.com/crm/developer/docs/php-sdk/install-sdk.html
+
